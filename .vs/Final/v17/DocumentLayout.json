@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\10th semester\\Dot Net\\Final\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\final\\controllers\\pollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|solutionrelative:final\\controllers\\pollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\final\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|solutionrelative:final\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\final\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|solutionrelative:final\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\services\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\services\\optionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\optionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\interfaces\\ivoterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ivoterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\ef\\tablemodels\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\ef\\tablemodels\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\repos\\pollrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\pollrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\services\\pollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\pollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|f:\\10th semester\\dot net\\final\\final\\dal\\repos\\voterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\voterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\final\\controllers\\optioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|solutionrelative:final\\controllers\\optioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\repos\\optionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\optionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\ef\\pcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\pcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\ef\\tablemodels\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\ef\\tablemodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\dtos\\polldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\polldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\dtos\\optiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\optiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\final\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|solutionrelative:final\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\final\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|solutionrelative:final\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\migrations\\202409271736444_date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202409271736444_date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\migrations\\202409271526361_an.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202409271526361_an.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\migrations\\202409271458170_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202409271458170_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40B666-5BCE-40C7-8B84-BD9D05CC914F}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\final\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5426EB-908E-4D9F-84D2-4BC7E861E651}|Final\\Final.csproj|solutionrelative:final\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|F:\\10th semester\\Dot Net\\Final\\Final\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1088C8-6271-4061-904E-878358D5C26D}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PollController.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\PollController.cs",
+              "RelativeDocumentMoniker": "Final\\Controllers\\PollController.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\PollController.cs",
+              "RelativeToolTip": "Final\\Controllers\\PollController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:16:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PollRepo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\PollRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PollRepo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\PollRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PollRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\Vote.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Vote.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\Vote.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Vote.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:41:18.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Option.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\Option.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Option.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\Option.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Option.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:27:05.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Final\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Final\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwEcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:14:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PContext.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\PContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\PContext.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\PContext.cs",
+              "RelativeToolTip": "DAL\\EF\\PContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:49:47.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\User.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:22:37.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "Final\\Controllers\\VoteController.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "Final\\Controllers\\VoteController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA+wC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:29:01.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVoteRepo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Interfaces\\IVoteRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IVoteRepo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Interfaces\\IVoteRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IVoteRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:25:21.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoteService.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\VoteService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\VoteService.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\VoteService.cs",
+              "RelativeToolTip": "BLL\\Services\\VoteService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OptionService.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\OptionService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OptionService.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\OptionService.cs",
+              "RelativeToolTip": "BLL\\Services\\OptionService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PollService.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\PollService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PollService.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\PollService.cs",
+              "RelativeToolTip": "BLL\\Services\\PollService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VoteRepo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\VoteRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\VoteRepo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\VoteRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\VoteRepo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OptionRepo.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\OptionRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OptionRepo.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Repos\\OptionRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OptionRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Poll.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\Poll.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Poll.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\EF\\TableModels\\Poll.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\Poll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:22:51.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OptionController.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\OptionController.cs",
+              "RelativeDocumentMoniker": "Final\\Controllers\\OptionController.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Controllers\\OptionController.cs",
+              "RelativeToolTip": "Final\\Controllers\\OptionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:25:07.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PollDTO.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\PollDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PollDTO.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\PollDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PollDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:34:43.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:15:46.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VoteDTO.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\VoteDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\VoteDTO.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\VoteDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\VoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:17:02.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OptionDTO.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\OptionDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\OptionDTO.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\OptionDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\OptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:04:35.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\LoginDTO.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:19:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:13:22.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Web.config",
+              "RelativeDocumentMoniker": "Final\\Web.config",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Web.config",
+              "RelativeToolTip": "Final\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAABBwEAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-26T11:57:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Final\\Global.asax.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\Global.asax.cs*",
+              "RelativeToolTip": "Final\\Global.asax.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:24:17.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "202409271526361_an.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\202409271526361_an.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202409271526361_an.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\202409271526361_an.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202409271526361_an.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:26:42.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "202409271458170_InitDb.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\202409271458170_InitDb.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202409271458170_InitDb.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\202409271458170_InitDb.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202409271458170_InitDb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:58:31.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "202409271736444_Date.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\202409271736444_Date.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202409271736444_Date.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\202409271736444_Date.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202409271736444_Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:36:50.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:57:48.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Final\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\Final\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Final\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:24:09.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\readme.txt",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-27T09:28:10.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:24:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "F:\\10th semester\\Dot Net\\Final\\Final\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:24:03.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

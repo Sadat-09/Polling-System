@@ -1,0 +1,14 @@
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\BLL.dll
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\BLL.pdb
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\AutoMapper.dll
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\DAL.dll
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\EntityFramework.dll
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\DAL.pdb
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\DAL.dll.config
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\AutoMapper.xml
+F:\10th semester\Dot Net\Final\Final\BLL\bin\Debug\EntityFramework.xml
+F:\10th semester\Dot Net\Final\Final\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\10th semester\Dot Net\Final\Final\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\10th semester\Dot Net\Final\Final\BLL\obj\Debug\BLL.csproj.Up2Date
+F:\10th semester\Dot Net\Final\Final\BLL\obj\Debug\BLL.dll
+F:\10th semester\Dot Net\Final\Final\BLL\obj\Debug\BLL.pdb

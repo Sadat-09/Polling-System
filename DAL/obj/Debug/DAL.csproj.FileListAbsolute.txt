@@ -1,0 +1,16 @@
+F:\10th semester\Dot Net\Final\Final\DAL\bin\Debug\DAL.dll.config
+F:\10th semester\Dot Net\Final\Final\DAL\bin\Debug\DAL.dll
+F:\10th semester\Dot Net\Final\Final\DAL\bin\Debug\DAL.pdb
+F:\10th semester\Dot Net\Final\Final\DAL\bin\Debug\EntityFramework.dll
+F:\10th semester\Dot Net\Final\Final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\10th semester\Dot Net\Final\Final\DAL\bin\Debug\EntityFramework.xml
+F:\10th semester\Dot Net\Final\Final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.dll
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.pdb
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.Migrations.InitDb.resources
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.Migrations.an.resources
+F:\10th semester\Dot Net\Final\Final\DAL\obj\Debug\DAL.Migrations.Date.resources
